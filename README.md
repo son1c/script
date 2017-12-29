@@ -1,0 +1,1 @@
+this very simple script shows the version und the date of the last update of XProtect
